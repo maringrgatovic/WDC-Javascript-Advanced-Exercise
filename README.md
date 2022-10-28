@@ -14,3 +14,8 @@
 * Template strings
 * Default arguments
 * Arrow function
+
+***Exercise 4 - Advanced Functions***
+* Closure
+* Currying
+* Composing
