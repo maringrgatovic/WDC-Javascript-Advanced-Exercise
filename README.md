@@ -19,3 +19,8 @@
 * Closure
 * Currying
 * Composing
+
+***Exercise 5 - Advanced Arrays***
+* Map
+* Filter
+* Reduce
