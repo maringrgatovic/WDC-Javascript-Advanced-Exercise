@@ -28,5 +28,5 @@
 ***Exercise 6 - Advanced Objects***
 
 ***Exercise 7 - ES7***
-*.includes()
-*exponential operator
+* .includes()
+* exponential operator
