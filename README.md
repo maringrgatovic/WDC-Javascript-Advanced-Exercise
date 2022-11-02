@@ -24,3 +24,5 @@
 * Map
 * Filter
 * Reduce
+
+***Exercise 6 - Advanced Objects**
