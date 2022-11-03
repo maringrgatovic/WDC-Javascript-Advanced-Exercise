@@ -30,3 +30,7 @@
 ***Exercise 7 - ES7***
 * .includes()
 * exponential operator
+
+***Exercise 8 - ES8***
+* .padStart()  /  .padEnd()
+* Object.keys  /  Object.values  /  Object.entries
