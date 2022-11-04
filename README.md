@@ -43,3 +43,8 @@
 ***Exercise 10 - Advanced looping***
 * for of
 * for in
+
+***Exercise 11 - ES2020***
+* bigint
+* Nullish Coalescing Operator ??
+* Optional Chaining Operator ?.
