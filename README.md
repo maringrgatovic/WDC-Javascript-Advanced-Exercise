@@ -33,4 +33,9 @@
 
 ***Exercise 8 - ES8***
 * .padStart()  /  .padEnd()
-* Object.keys  /  Object.values  /  Object.entries
+* Object.keys()  /  Object.values()  /  Object.entries()
+
+***Exercise 9 - ES10***
+* .flat()
+* .flatMap()
+* Object.fromEntries()
