@@ -39,3 +39,7 @@
 * .flat()
 * .flatMap()
 * Object.fromEntries()
+
+***Exercise 10 - Advanced looping***
+* for of
+* for in
